@@ -51,7 +51,7 @@
 
 ***
 
-<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/BDNetDiskSVipDemoImg/demo1.png?raw=true"/>
+<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/BDNetDiskSVipDemoImg/demo2.png?raw=true"/>
 
 ***
 
