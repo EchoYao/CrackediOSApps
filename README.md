@@ -12,6 +12,9 @@
 * 麻花影视破解版 下载MHClearVersion.ipa
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
+
+***
+
 ### 若您的设备未越狱
 #### 使用[Impactor](http://www.cydiaimpactor.com)进行重签名与安装
 * 点击上方链接进入官网，下载对应系统版本的安装包
@@ -35,6 +38,8 @@
 
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/QQCrackVersionDemoImg/demo2.gif?raw=true"/>
 
+***
+
 ### 百度网盘破解版
 #### 功能
 * 去除开屏广告
@@ -48,6 +53,8 @@
 
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/BDNetDiskSVipDemoImg/demo1.png?raw=true"/>
 
+***
+
 ### 抖音破解版
 #### 功能
 * 去除所有广告
@@ -56,6 +63,8 @@
 * 支持长视频下载
 #### 预览图
 无
+
+***
 
 ### 麻花影视破解版
 #### 功能
