@@ -2,7 +2,8 @@
 ## 声明
 * 以下所有破解版应用均为免费的，本人不会以此获取任何利益，切勿用于商业用途。
 * 破解版应用仅为方便大家之目的，无意破坏软件秩序，切勿使用以下软件用于任何非法用途。
-* 破解版应用绝对未注入任何盗取个人隐私信息等的代码，但开发者无法确保使用破解版不被官方检测到，因此不建议您使用大号登录，若您有顾虑，请勿下载。
+* 破解版应用绝对未注入任何盗取个人隐私信息等不道德的代码，但开发者无法确保使用破解版不被官方检测到，因此不建议您使用大号登录，若您有顾虑，请勿下载。
+* 因使用破解版应用造成的任何后果，需自行承担，若您有顾虑，请勿下载。
 * 若有任何需求可在issue中提出，不定期更新。
 ## 如何下载
 ### [百度网盘下载链接](https://pan.baidu.com/s/1Q_SO6c4NB4CTkw1tXBuO7w) 密码:b4vt
@@ -10,6 +11,7 @@
 * 百度网盘破解版 下载BDNetDiskSVip.ipa
 * 抖音破解版 下载DYClearVersion.ipa
 * 麻花影视破解版 下载MHClearVersion.ipa
+* 钉钉打卡助手 下载DingTalkClockHelper.ipa
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
 
@@ -75,6 +77,22 @@
 * <del>热门电影无需分享即可观看</del>
 #### 预览图
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/MHClearVersionDemoImg/demo1.gif?raw=true"/>
+
+***
+### 钉钉打卡助手
+#### 来源
+* 主要功能来源于[helloiOSer's DingTalkHelper](https://github.com/helloiOSer/DingTalkHelper)，在此基础上增加了防止钉钉对于非官方客户端的检测、增加自定义位置选择。
+#### 功能
+* 支持自定义位置打卡
+* 支持WiFi打卡
+#### 预览图
+<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/DingTalkClockHelper/demo1.png?raw=true"/>
+
+***
+
+<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/DingTalkClockHelper/demo2.png?raw=true"/>
+
+***
 
 ## 再次声明，以上所有破解版应用仅为娱乐便捷之目的，并且是完全免费的，切勿用于非法用途，切勿商用！！！
 
