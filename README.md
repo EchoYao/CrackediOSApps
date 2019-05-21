@@ -63,6 +63,7 @@
 * 自定义视频过滤关键字
 * 视频下载去水印
 * 支持长视频下载
+* 支持多开，默认使用原BundleId，若需多开，请在重签名时更改BundleId，否则请先卸载原抖音App
 #### 预览图
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/DYClearVersionDemoImg/demo1.gif?raw=true"/>
 
