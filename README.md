@@ -1,4 +1,6 @@
 # CrackediOSApps
+[![CocoaPods](http://img.shields.io/cocoapods/p/ZXTableView.svg?style=flat)](http://cocoapods.org/?q=ZXTableView)&nbsp;
+[![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 ## 声明
 * 以下所有破解版应用均为免费的，本人不会以此获取任何利益，切勿用于商业用途。
 * 破解版应用仅为方便大家之目的，无意破坏软件秩序，切勿使用以下软件用于任何非法用途。
