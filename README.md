@@ -4,7 +4,7 @@
 ## 声明
 * 以下所有破解版应用均为免费的，本人不会以此获取任何利益，切勿用于商业用途。
 * 破解版应用仅为方便大家之目的，无意破坏软件秩序，切勿使用以下软件用于任何非法用途。
-* 破解版应用绝对未注入任何盗取个人隐私信息等不道德的代码，但开发者无法确保使用破解版不被官方检测到，因此不建议您使用大号登录，若您有顾虑，请勿下载。
+* 破解版应用绝对未注入任何盗取个人隐私信息等不道德的代码，但开发者无法确保使用破解版不被官方检测到，因此建议您使用小号登录，若您有顾虑，请勿下载。
 * 因使用破解版应用造成的任何后果，需自行承担，若您有顾虑，请勿下载。
 * 若有任何需求可在issue中提出，不定期更新。
 ## 如何下载
@@ -14,6 +14,7 @@
 * 抖音破解版 下载DYClearVersion.ipa
 * 麻花影视破解版 下载MHClearVersion.ipa
 * 钉钉打卡助手 下载DingTalkClockHelper.ipa
+* 墨墨背单词破解版 下载MomoUnlimitVersion.ipa
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
 
@@ -94,6 +95,16 @@
 ***
 
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/DingTalkClockHelper/demo2.png?raw=true"/>
+
+***
+
+### 墨墨背单词破解版
+#### 功能
+* 单词上限总量提升至9999999
+* 等级提升至LV99
+
+#### 预览图
+<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/MomoUnlimitVersionDemoImg/demo1.png"/>
 
 ***
 
