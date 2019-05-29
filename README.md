@@ -8,13 +8,14 @@
 * 因使用破解版应用造成的任何后果，需自行承担，若您有顾虑，请勿下载。
 * 若有任何需求可在issue中提出，不定期更新。
 ## 如何下载
-### [百度网盘下载链接](https://pan.baidu.com/s/1Q_SO6c4NB4CTkw1tXBuO7w) 密码:b4vt
-* QQ破解版 下载QQCrackVersion.ipa
-* 百度网盘破解版 下载BDNetDiskSVip.ipa
-* 抖音破解版 下载DYClearVersion.ipa
-* 麻花影视破解版 下载MHClearVersion.ipa
-* 钉钉打卡助手 下载DingTalkClockHelper.ipa
-* 墨墨背单词破解版 下载MomoUnlimitVersion.ipa
+* QQ破解版 [点击下载 QQCrackVersion.ipa](http://www.zxlee.cn/CrackediOSApps/QQCrackVersion.ipa
+)
+* 百度网盘破解版 [点击下载 BDNetDiskSVip.ipa](http://www.zxlee.cn/CrackediOSApps/BDNetDiskSVip.ipa
+)
+* 抖音破解版 [点击下载 DYClearVersion.ipa](http://www.zxlee.cn/CrackediOSApps/DYClearVersion.ipa)
+* 麻花影视破解版 [点击下载 MHClearVersion.ipa](http://www.zxlee.cn/CrackediOSApps/MHClearVersion.ipa)
+* 钉钉打卡助手 [点击下载 DingTalkClockHelper.ipa](http://www.zxlee.cn/CrackediOSApps/DingTalkClockHelper.ipa)
+* 墨墨背单词破解版 [点击下载 MomoUnlimitVersion.ipa](http://www.zxlee.cn/CrackediOSApps/MomoUnlimitVersion.ipa)
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
 
