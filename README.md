@@ -16,6 +16,7 @@
 * 麻花影视破解版 [点击下载 MHClearVersion.ipa](http://www.zxlee.cn/CrackediOSApps/MHClearVersion.ipa)
 * 钉钉打卡助手 [点击下载 DingTalkClockHelper.ipa](http://www.zxlee.cn/CrackediOSApps/DingTalkClockHelper.ipa)
 * 墨墨背单词破解版 [点击下载 MomoUnlimitVersion.ipa](http://www.zxlee.cn/CrackediOSApps/MomoUnlimitVersion.ipa)
+* 网易云音乐破解版 [点击下载 NeteaseMusic.ipa](http://www.zxlee.cn/CrackediOSApps/NeteaseMusic.ipa)
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
 
@@ -108,6 +109,19 @@
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/MomoUnlimitVersionDemoImg/demo1.png"/>
 
 ***
+
+### 网易云音乐破解版
+#### 来源
+* 主要功能来源于[brotherand2's neteasemusic](https://github.com/brotherand2/neteasemusic)，在此基础上增加了皮肤无限制更换功能。
+#### 功能
+* 去除开屏广告
+* VIP音乐无限制下载
+* 主题皮肤无限制更换
+#### 预览图
+<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/NeteaseMusicVipDemoImg/demo1.gif?raw=true"/>
+
+***
+
 
 ## 再次声明，以上所有破解版应用仅为娱乐便捷之目的，并且是完全免费的，切勿用于非法用途，切勿商用！！！
 
