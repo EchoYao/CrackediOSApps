@@ -17,6 +17,7 @@
 * 钉钉打卡助手 [点击下载 DingTalkClockHelper.ipa](http://www.zxlee.cn/CrackediOSApps/DingTalkClockHelper.ipa)
 * 墨墨背单词破解版 [点击下载 MomoUnlimitVersion.ipa](http://www.zxlee.cn/CrackediOSApps/MomoUnlimitVersion.ipa)
 * 网易云音乐破解版 [点击下载 NeteaseMusic.ipa](http://www.zxlee.cn/CrackediOSApps/NeteaseMusic.ipa)
+* 芒果TV破解版 [点击下载 MGTV.ipa](http://www.zxlee.cn/CrackediOSApps/MGTV.ipa)
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
 
@@ -122,6 +123,15 @@
 
 ***
 
+### 芒果TV破解版
+#### 功能
+* 任意使用VIP皮肤
+* 去除开屏广告和视频广告
+
+#### 预览图
+<img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/MGTVDemoImg/demo1.gif"/>
+
+***
 
 ## 再次声明，以上所有破解版应用仅为娱乐便捷之目的，并且是完全免费的，切勿用于非法用途，切勿商用！！！
 
