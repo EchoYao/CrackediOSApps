@@ -92,6 +92,7 @@
 #### 功能
 * 支持自定义位置打卡
 * 支持WiFi打卡
+* 卸载原App运行自定义位置打卡无闪退
 #### 预览图
 <img src="https://github.com/SmileZXLee/CrackediOSApps/blob/master/DingTalkClockHelper/demo1.png?raw=true"/>
 
